@@ -46,7 +46,7 @@ The website chosen for this project is **[The Guardian's Stage section](https://
 To run this scraper on your local machine, follow the steps below:
 
 ### 1. **Clone the Repository**
-   git clone https://github.com/Evaabee/scraping_project.git
+   git clone https://github.com/komalnpn/scraping_project.git
 
 ### 2. **Install Dependencies**
     cd guardian-stage-reviews-scraper
